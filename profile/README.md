@@ -1,6 +1,6 @@
 # British Gre Bland Mys Government Github
 
-[Nationstates Link](https://www.nationstates.net/nation=british_gre_bland_mys/detail=factbook/id=190003)
+[Nationstates Link](https://www.nationstates.net/nation=british_gre_bland_mys)
 
 
 This organization is run by the British Gre Bland Mys Government and hosts all projects we have created. Written in their own programming language named "B#".
